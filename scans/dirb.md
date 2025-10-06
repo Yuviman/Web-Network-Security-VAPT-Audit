@@ -7,4 +7,6 @@ Here we can even specifically mention to only search for text files with the hel
 
 Then we find out that there is a robots.txt file that none of the directories, thus we cant crawl into any pages of the website.
 
-(Add Screenshot)
+<img width="1920" height="903" alt="Screenshot_2025-10-06_02_30_04" src="https://github.com/user-attachments/assets/a5f7bcff-d741-4c14-949e-652e60d15922" />
+
+
